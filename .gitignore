@@ -1,6 +1,6 @@
 .env
 venv
-.chainlit
+chainlit
 .files
 *.db
 __pycache__
